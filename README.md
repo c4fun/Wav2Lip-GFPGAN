@@ -13,3 +13,9 @@ Projects referred:
 Video sources:  
 1. https://www.youtube.com/watch?v=39w_zYB7AVM&t=0s
 2. https://www.youtube.com/watch?v=LQCQym6hVMo&t=0s
+
+
+## My Test
+
+1. 可以把一个视频的口型，根据另一个视频中的声音换成另一个视频的。
+2. 感觉效果一般。
